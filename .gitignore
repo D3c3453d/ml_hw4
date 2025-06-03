@@ -1,0 +1,8 @@
+CIFAR10
+__pycache__
+.coverage
+wandb
+results/*
+!results/.gitkeep
+images_background*
+images_evaluation*
